@@ -20,8 +20,11 @@ header:after {
   background-size: 70%;
 }
 
-
-
+.titre{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  font-weight: 200;
+}
 
 .keys {
   display: block;
